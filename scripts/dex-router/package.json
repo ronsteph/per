@@ -22,7 +22,7 @@
     "@jup-ag/api": "^6.0.29",
     "@kamino-finance/limo-sdk": "catalog:",
     "@pythnetwork/express-relay-js": "workspace:*",
-    "@solana/web3.js": "catalog:",
+    "@solana/web3.js": "1.98.1",
     "@types/yargs": "catalog:",
     "yargs": "catalog:"
   }
