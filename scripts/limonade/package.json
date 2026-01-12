@@ -26,8 +26,8 @@
     "@pythnetwork/express-relay-js": "workspace:*",
     "@pythnetwork/hermes-client": "^1.2.0",
     "@solana/spl-token": "^0.4.9",
-    "@solana/web3.js": "catalog:",
-    "axios": "^1.7.3",
+    "@solana/web3.js": "1.98.1",
+    "axios": "^1.12.0",
     "bs58": "catalog:",
     "yaml": "^2.6.1",
     "yargs": "catalog:"
