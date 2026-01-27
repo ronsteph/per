@@ -23,7 +23,7 @@
   "dependencies": {
     "@pythnetwork/express-relay-js": "workspace:*",
     "@solana/web3.js": "catalog:",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "yargs": "catalog:"
   }
 }
